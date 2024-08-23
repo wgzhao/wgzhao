@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-I am wgzhao, a DevOps engineer working on Securities industry and currently learning Java and Python programming language.
+Hi! I'm wgzhao, a DevOps engineer specializing in the Securities industry. I'm currently expanding my skillset by learning Java, Python and TypeScript(Vue) programming languages.
 
-Currently I focus on the development of my fork open source project [Addax](https://github.com/wgzhao/Addax), which is a general-purpose ETL tools, it supports most of the relational databases on the market and the mainstream of NoSQL databases.
-
-At the same time, I maintain the [trino-clickhouse plugin](https://github.com/trinodb/trino/tree/master/plugin/trino-clickhouse) in the [Trino project](https://github.com/trinodb/trino) and [trino-admin](https://github.com/wgzhao/trino-admin)
+My current focus is on developing my open-source project [Addax](https://github.com/wgzhao/Addax),. This versatile ETL tool supports a wide range of relational and NoSQL databases commonly used in the market.
